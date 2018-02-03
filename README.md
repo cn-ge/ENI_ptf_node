@@ -30,7 +30,6 @@ notes
 -----
 
 - Dependencies can be declared in package.json
-- source : https://www.youtube.com/watch?v=HneatE69814
 
 license
 ---

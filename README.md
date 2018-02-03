@@ -10,7 +10,7 @@ installation
 Import all necessary libraries in your nodejs installation folder : 
 - npm install --save **libraryname**
 
-Use the command 'node index.js' to start app
+Use the command **node index.js** to start app
 
 
 
@@ -21,7 +21,7 @@ methods
 
 
 events
------
+----- 
 
 - **todo**(): nothing available yet
 
